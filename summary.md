@@ -3,7 +3,7 @@
 
 #  Summary
 
-```
+
 ## Methodology
 
 The analysis combines daily market sentiment data with trade-level Hyperliquid data. Trader executions were aggregated to a daily level and aligned with the Fear & Greed Index. Sentiment was categorized into Fear, Neutral, and Greed regimes using standard thresholds.
