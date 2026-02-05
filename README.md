@@ -30,14 +30,11 @@ trader-performance-vs-sentiment/
 ├── README.md
 │
 ├── data/
-│   ├── raw/
-│   │   ├── fear_greed.csv
-│   │   └── hyperliquid_trades.csv
-│   │
-│   └── processed/
-│       ├── daily_trader_metrics.csv
-│       ├── sentiment_labeled.csv
-│       └── analysis_dataset.csv
+│   |
+│   │── fear_greed.csv
+│   │── hyperliquid_trades.csv
+│  
+
 │
 ├── notebooks/
 │   └── trader_performance_vs_sentiment.ipynb
@@ -58,8 +55,7 @@ trader-performance-vs-sentiment/
 │       ├── leverage_vs_sentiment.png
 │       └── frequency_vs_sentiment.png
 │
-├── report/
-│   └── analysis_summary.md
+├── summary.md
 │
 ├── requirements.txt
 │
