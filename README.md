@@ -20,12 +20,11 @@ The analysis focuses on:
 - matplotlib
 - scikit-learn
 
-
 ---
+
 ## Reporsitory Structure
 
-
----
+```
 trader-performance-vs-sentiment/
 │
 ├── README.md
