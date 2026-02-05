@@ -25,7 +25,7 @@ The analysis focuses on:
 ## Reporsitory Structure
 
 
-
+---
 trader-performance-vs-sentiment/
 │
 ├── README.md
