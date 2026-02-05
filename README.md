@@ -42,21 +42,19 @@ trader-performance-vs-sentiment/
 │
 ├── outputs/
 │   ├── tables/
-│   │   ├── win_rate_by_sentiment.csv
-│   │   ├── trade_size_by_sentiment.csv
-│   │   ├── trade_frequency_by_sentiment.csv
+│   │   ├── winrate_by_sentiment.csv
+│   │   ├── size_by_sentiment.csv
 │   │   ├── leverage_segment_performance.csv
-│   │   └── frequency_segment_performance.csv
+│   │   |── frequency_segment_performance.csv
+|   |   |── consistency_segment_performance.csv
+|   |   |── trades_count_by_sentiment.csv
 │   │
 │   └── charts/
 │       ├── win_rate_by_sentiment.png
-│       ├── trade_size_by_sentiment.png
-│       ├── trades_per_day_by_sentiment.png
-│       ├── leverage_vs_sentiment.png
-│       └── frequency_vs_sentiment.png
+│       ├── size_by_sentiment.png
+│       ├── trades_count_by_sentiment.png
+│       └── pnl_by_sentiment.png
 │
 ├── summary.md
-│
-├── requirements.txt
-│
-└── .gitignore
+
+
