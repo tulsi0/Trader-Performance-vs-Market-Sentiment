@@ -11,7 +11,7 @@ The analysis focuses on:
 - Simple predictive modeling for next-day profitability
 
 ---
-##Environment Setup
+## Environment Setup
 
 ### Requirements
 - Python 
@@ -22,10 +22,10 @@ The analysis focuses on:
 
 
 ---
-##Reporsitory Structure
+## Reporsitory Structure
 
 
----
+
 trader-performance-vs-sentiment/
 │
 ├── README.md
