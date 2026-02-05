@@ -10,7 +10,7 @@ The analysis focuses on:
 - Segment-level differences (leverage, frequency)
 - Simple predictive modeling for next-day profitability
 
-
+---
 ##Environment Setup
 
 ### Requirements
